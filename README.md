@@ -7,4 +7,6 @@ A interactive web app where user can play tenzies game.
 ### Tech Used:
 - ReactJs 
 - CSS3
+
+
 Don't forget to leave a ⭐ if you found this useful
